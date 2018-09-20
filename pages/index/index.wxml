@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="container">
+  <button bindtap="add">add</button>
+  <button bindtap="del">del</button>
+</view>
